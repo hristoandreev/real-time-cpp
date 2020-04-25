@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hristoandreev/real-time-cpp.svg?branch=travis)](https://travis-ci.org/hristoandreev/real-time-cpp)
 
 ## This is the companion code for the book "Real-Time C++".
 
